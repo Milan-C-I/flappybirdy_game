@@ -1,2 +1,1 @@
-# flappybirdy_game
-learning_unity
+Flappy Birdy is a Unity-based clone of the classic Flappy Bird game, developed using C#. Players tap to keep the bird airborne while navigating through challenging pipes. The game includes basic physics, collision detection, scoring, and a restart system. Designed as a learning project, it demonstrates core Unity concepts like Rigidbody mechanics, object spawning, and simple UI handling—perfect for beginners exploring 2D game development.
